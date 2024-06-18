@@ -1,0 +1,4 @@
+lista1 = [2,3,5]
+lista2 = [6,9,0]
+lista_junta = lista1 + lista2
+print(lista_junta) 
